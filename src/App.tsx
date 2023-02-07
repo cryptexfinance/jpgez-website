@@ -17,7 +17,7 @@ function App() {
           <h3 className="SubTitleText">Total NFT Market Cap Token <br/> Exclusively on Arbitrum </h3>
         </div>
         <div className="ButtonBox">
-          <a href="#" className="JPEGZButton">Watch the Video</a>
+          <a href="https://twitter.com/cryptexfinance/status/1623039263796240384" className="JPEGZButton">Watch the Video</a>
           <a href="https://cryptexfinance.notion.site/JPEGz-d69c8df153ee4795b1fd728ef6daba5d" target="_blank" className="JPEGZButton">Learn More</a>
           <a href="https://twitter.com/CryptexFinance" target="_blank" className="JPEGZButton">Follow on Twitter</a>
         </div>
